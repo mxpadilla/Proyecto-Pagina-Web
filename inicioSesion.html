@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, inicial-scale1.0">
+    <title>Iniciar Sesión</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="inicioSesión.css"> 
+</head>
+<body >
+    <header>
+        <h1><a href="Pagina1.html"><img src="img/logo.png"width="160" ></a> </h1>
+        <br></br>
+        <form action="formulario.php" method="post">
+            <div class="contenido">
+                <h1>Iniciar Sesión</h1>
+                <div>
+                    <label for="correo" class="form-label">Correo</label><br>
+                    <input type="email" class="form-control" id="correo" name="correo" required> 
+                </div>
+                <br></br>
+    
+                <div>
+                    <label for="contra" class="form-label">Contraseña</label><br>
+                    <input type="password" class="form-control" id="contra" name="contra" required>
+                </div>
+                <br></br>
+                <br></br>
+
+
+                <div>
+                    <a href="crearCuenta.html">
+                        <input type="button" value="Crear Cuenta" class="btn btn-success" button style="margin-left: 97px">
+                    </a>
+                    
+                    <input type="submit" class="btn btn-success"  id="btn_enviar" name="btn_enviar" value="Confirmar" button style="margin-left: 130px">
+                    
+                </div>
+                
+            </div>
+            <br></br>
+            
+            
+        </form>
+   
+    </header>
+</body>    
+   

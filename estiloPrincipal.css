@@ -1,0 +1,56 @@
+body{
+    width: 1500px;
+    margin: 0px auto;
+    background-color: #37A186;
+}
+header{
+    background-color: #37A186;
+    padding: 70px;
+    
+}
+article{
+    background-color: #37A186;
+}
+aside{
+    background-color: #37A186;
+   
+}
+footer{
+    background-color: #37A186;
+    padding: 30px;
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-family: arial;
+    font-size: 50px;
+}
+h2{
+    color: rgb(255, 255, 255);
+    font-family: arial;
+    font-size: 24px;
+}
+h3{
+    color: rgb(73, 72, 175);
+    font-family: arial;
+    font-size: 24px;
+}
+h4{
+    color: rgb(255, 255, 255);
+    font-family: arial;
+    font-size: 29px;
+    text-align: right;
+}
+h5{
+    color: rgb(255, 255, 255);
+    font-family: arial;
+    font-size: 19px;
+    text-align: right;
+}
+p{
+    color: floralwhite;
+    font-family: arial;
+    font-size: 19px;
+    
+    
+}
+

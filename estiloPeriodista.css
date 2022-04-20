@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(0, 153, 117);
+}
+
+img{
+    margin-top: 20px;
+}
+
+.borderStyle{
+    border: 3px solid black;
+}
+
+h1{
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding-top: 35px;
+}
+
+.fotoPeriodista{
+    text-align: center;
+    margin: 50px;
+}
+
+h3{
+    color: white;
+}
+
+p{
+    background-color: white;
+    width: 350px;
+    height: 80px;
+    padding-left: 10px;
+    margin-left: 30px;
+    margin-right: 50px;
+    margin-bottom: 55px;
+}

@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(0, 153, 117);
+}
+
+.formatoLetra{
+    font-family: sans-serif;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+
+.arregloMargen{
+    margin-top: 50px;
+}
+
+.centrarBotones{
+    padding-top: 50px;
+    text-align: center;
+}
+
+.botonCancelar{
+    margin-right: 50px;
+}
+
+.botonConfirmar{
+    margin-left: 50px;
+}
+
+.botonFormato{
+    border-radius: 7px;
+    border-width: 3px;
+    border-color: white;
+    font-size: large;
+    background-color: rgb(71, 216, 182);
+    color: white;
+    font-weight: bold;
+}
